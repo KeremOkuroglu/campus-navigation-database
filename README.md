@@ -3,6 +3,12 @@ A normalized SQL database system for managing campus users, courses, rooms, sche
 
 ---
 
+## ER Diagram
+
+![ER Diagram](docs/er_diagram.png)
+
+---
+
 ## Overview
 
 This project models a campus management system using a relational database structure. It includes core entities such as users, courses, rooms, and maintenance processes, and focuses on keeping the data consistent and well-structured.
