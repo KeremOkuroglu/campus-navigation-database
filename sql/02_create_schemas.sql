@@ -1,0 +1,10 @@
+USE CampusNavigationDB
+GO
+CREATE SCHEMA users;
+GO
+CREATE SCHEMA campus;
+GO
+CREATE SCHEMA course;
+GO
+CREATE SCHEMA lookup;
+GO
