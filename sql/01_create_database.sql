@@ -1,0 +1,2 @@
+CREATE DATABASE CampusNavigationDB
+GO
