@@ -5,7 +5,7 @@ A normalized SQL database system for managing campus users, courses, rooms, sche
 
 ## ER Diagram
 
-![ER Diagram](docs/er_diagram.png)
+![ER Diagram](campus-navigation-database/sql/docs/er_diagram.png)
 
 ---
 
